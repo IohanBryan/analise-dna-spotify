@@ -73,5 +73,5 @@ Este projeto apresenta um fluxo objetivo de **Análise Exploratória de Dados** 
 Analista de Dados em formação
 
 📧 Email: [yohanbryan2000@gmail.com](mailto:yohanbryan2000@gmail.com)
-🔗 LinkedIn: [https://www.linkedin.com/in/iohan-bryan-566a6a398/](https://www.linkedin.com/in/iohan-bryan/)
+🔗 LinkedIn: [https://www.linkedin.com/in/iohan-bryan/](https://www.linkedin.com/in/iohan-bryan/)
 📷 Instagram: [https://www.instagram.com/iohanbryan_2/](https://www.instagram.com/iohanbryan_2/)
